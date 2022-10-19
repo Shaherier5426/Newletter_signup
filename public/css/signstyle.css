@@ -1,0 +1,10 @@
+
+h1, p{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-style: italic;
+}
+
+.image{
+    padding: 1rem;
+    border-radius: 100%;
+}
